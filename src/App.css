@@ -1,0 +1,39 @@
+
+*{
+    padding: 0;
+    margin-left: 20px;
+    }
+
+body{
+  height: 100vh;
+  background: #066acd;
+  
+}
+
+ul{
+  list-style-type:none;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 10px;
+  font-size: medium;
+  width: 20%;
+border-radius: 50px;
+}
+input {
+  border: 2px solid red;
+  border-radius: 4px;
+  width: 50%;
+  padding: 12px 20px;
+
+}
+.task {
+font-size: 25px;
+font-weight: bold;
+font-family:Georgia, 'Times New Roman', Times, serif ;
+}
